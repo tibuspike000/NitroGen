@@ -33,6 +33,7 @@ banner = f"""
 good_proxies = set()
 print(banner)
 print(f"NitroGENV2 Started!")
+print(f"Code by root@TibuSpike001 ~#")
 
 
 class ProxyParser():
